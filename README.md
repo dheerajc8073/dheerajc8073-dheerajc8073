@@ -1,10 +1,3 @@
-# 🔥 Hacker-Style GitHub Profile README for `dheerajc8073`
-
-Create a **new public repository** named exactly **`dheerajc8073`** (same as your username). GitHub will automatically display the `README.md` from that repo on your profile. Here's the complete code:
-
----
-
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:003b00&height=200&section=header&text=DHEERAJ_C&fontSize=60&fontColor=00ff41&animation=twinkling&reversal=false" />
 </p>
@@ -107,28 +100,4 @@ PORT     STATE  SERVICE     VERSION
 
 ---
 
-## 📋 How to Set It Up
 
-1. Go to **https://github.com/new**
-2. Name the repository **`dheerajc8073`** (must match your username exactly)
-3. Make it **Public** ✅
-4. Check **"Add a README file"**
-5. Click **Create repository**
-6. Replace the auto-generated README content with the code above
-7. Click **Commit changes**
-
----
-
-## 🎨 What You'll Get
-
-| Feature | Effect |
-|--------|--------|
-| 🟢 **Matrix-green theme** | Full hacker aesthetic |
-| ⌨️ **Typing animation** | Terminal-style intro |
-| 📊 **Live stats cards** | Auto-updating GitHub stats |
-| 🔥 **Streak counter** | Shows coding consistency |
-| 👁️ **Profile view counter** | Tracks visitors |
-| 🗂️ **Project showcase table** | Your repos with cool descriptions |
-| 🌊 **Animated header/footer** | Waving green gradient banners |
-
-Your profile will go from **boring student page** → **cyberpunk hacker terminal** 🖥️💚
