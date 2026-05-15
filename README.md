@@ -1,6 +1,4 @@
-# 🔥 Hacker-Style GitHub Profile README for `dheerajc8073`
 
-Create a **new public repository** named exactly **`dheerajc8073`** (same as your username). GitHub will automatically display the `README.md` from that repo on your profile. Here's the complete code:
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:003b00&height=200&section=header&text=DHEERAJ_C&fontSize=60&fontColor=00ff41&animation=twinkling&reversal=false" />
