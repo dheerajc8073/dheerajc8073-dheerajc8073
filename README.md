@@ -98,9 +98,3 @@ PORT     STATE  SERVICE     VERSION
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dheerajc8073&color=00ff41&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
-```
-
----
-
-
-Your profile will go from **boring student page** → **cyberpunk hacker terminal** 🖥️💚
