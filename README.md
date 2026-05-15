@@ -1,3 +1,10 @@
+# 🔥 Hacker-Style GitHub Profile README for `dheerajc8073`
+
+Create a **new public repository** named exactly **`dheerajc8073`** (same as your username). GitHub will automatically display the `README.md` from that repo on your profile. Here's the complete code:
+
+---
+
+```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:003b00&height=200&section=header&text=DHEERAJ_C&fontSize=60&fontColor=00ff41&animation=twinkling&reversal=false" />
 </p>
@@ -18,3 +25,110 @@ Role        : Engineering Student | Aspiring Cybersecurity Enthusiast
 Location    : India 🇮🇳
 Status      : 🟢 Online & Coding
 Mission     : Breaking systems to make them stronger
+```
+
+---
+
+## 🛠️ `ls -la /skills/`
+
+| Category | Technologies |
+|----------|-------------|
+| 🖥️ **Languages** | `C` `Python` `JavaScript` `HTML/CSS` `Bash` |
+| 🔐 **Security** | `Ethical Hacking` `Phishing Detection` `Network Security` |
+| 🗄️ **Backend** | `Flask` `Node.js` `REST APIs` |
+| 🐧 **Tools** | `Linux` `Git` `VS Code` `Terminal` `Kali Linux` |
+| 🤖 **Other** | `Problem Solving` `Algorithms` `Data Structures` |
+
+---
+
+## 📊 `cat /stats/contributions.log`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dheerajc8073&show_icons=true&theme=green&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajc8073&layout=compact&theme=green&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajc8073&theme=green&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakNum=ffffff" alt="Streak Stats" />
+</p>
+
+---
+
+## 🗂️ `find /projects -type d -name "*.repo"`
+
+| 🚀 Project | 📝 Description | 🛠 Tech |
+|-----------|---------------|--------|
+| [**phishguard-backend**](https://github.com/dheerajc8073/phishguard-backend) | 🛡️ AI-powered phishing detection system — because trust no one | `Python` `ML` |
+| [**weather**](https://github.com/dheerajc8073/weather) | 🌦️ Real-time weather intel tracker with live API feeds | `JavaScript` `C` |
+| [**calculator**](https://github.com/dheerajc8073/calculator) | 🧮 Minimalist CLI & web calculator — math never looked this clean | `C` `HTML` |
+| [**song**](https://github.com/dheerajc8073/song) | 🎵 Audio processing & music player built from scratch | `C` `HTML` |
+| [**git-hub-first-project**](https://github.com/dheerajc8073/git-hub-first-project) | 💀 The genesis — where it all began | `C` |
+
+---
+
+## 🌐 `nmap -sV dheerajc8073.github.io`
+
+```
+PORT     STATE  SERVICE     VERSION
+80/tcp   open   http        GitHub Pages
+443/tcp  open   https       Secured with TLS
+22/tcp   open   ssh         Always listening...
+3306/tcp open   mysql       Database queries accepted
+```
+
+---
+
+## 📡 `tail -f /var/log/connections`
+
+<p align="center">
+  <a href="mailto:dheerajc8073@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-dheerajc8073@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  </a>
+  <a href="https://github.com/dheerajc8073">
+    <img src="https://img.shields.io/badge/🐙_GitHub-dheerajc8073-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 💀 `echo "Final Message"`
+
+> *"I don't always write code, but when I do, I make sure it breaks the rules — legally."*
+> — **Dheeraj C**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b00,100:00ff41&height=120&section=footer&text=EOF_&fontSize=40&fontColor=00ff41&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dheerajc8073&color=00ff41&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+```
+
+---
+
+## 📋 How to Set It Up
+
+1. Go to **https://github.com/new**
+2. Name the repository **`dheerajc8073`** (must match your username exactly)
+3. Make it **Public** ✅
+4. Check **"Add a README file"**
+5. Click **Create repository**
+6. Replace the auto-generated README content with the code above
+7. Click **Commit changes**
+
+---
+
+## 🎨 What You'll Get
+
+| Feature | Effect |
+|--------|--------|
+| 🟢 **Matrix-green theme** | Full hacker aesthetic |
+| ⌨️ **Typing animation** | Terminal-style intro |
+| 📊 **Live stats cards** | Auto-updating GitHub stats |
+| 🔥 **Streak counter** | Shows coding consistency |
+| 👁️ **Profile view counter** | Tracks visitors |
+| 🗂️ **Project showcase table** | Your repos with cool descriptions |
+| 🌊 **Animated header/footer** | Waving green gradient banners |
+
+Your profile will go from **boring student page** → **cyberpunk hacker terminal** 🖥️💚
