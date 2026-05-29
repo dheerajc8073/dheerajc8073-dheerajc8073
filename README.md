@@ -19,11 +19,10 @@
 
 ```typescript
 const mithun: Developer = {
-  name:       "Mithun Gowda B",
+  name:       "Dheeraj C",
   location:   "Karnataka, India 🇮🇳",
   education:  "Engineering Student @ DBIT",
   roles: [
-    "Co-Founder @ NextGenXplorer",
     "Open Source Contributor",
     "AI Framework Developer",
     "Cybersecurity Enthusiast",
